@@ -1,0 +1,15 @@
+[package]
+name = "moc3"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chris Olstrom <chris@olstrom.com>"]
+license = "MIT"
+repository = "https://github.com/vtubing/orphism"
+documentation = "https://docs.rs/moc3"
+description = "a library for reading models from binary .moc3 files"
+
+[dependencies]
+byteorder = "^ 1"
+derivative = "^ 2"
+log = "^ 0.4"
+thiserror = "^ 1"
