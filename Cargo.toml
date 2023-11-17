@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Chris Olstrom <chris@olstrom.com>"]
 license = "MIT"
-repository = "https://github.com/vtubing/orphism"
+repository = "https://github.com/vtubing/moc3"
 documentation = "https://docs.rs/moc3"
 description = "a library for reading models from binary .moc3 files"
 
